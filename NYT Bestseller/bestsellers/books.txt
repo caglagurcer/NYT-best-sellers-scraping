@@ -1,0 +1,550 @@
+-------------------------------------------
+1.
+Book's names :IN THE BLOOD
+Book's author :by Jack Carr
+-------------------------------------------
+-------------------------------------------
+2.
+Book's names :BOOK LOVERS
+Book's author :by Emily Henry
+-------------------------------------------
+-------------------------------------------
+3.
+Book's names :IT ENDS WITH US
+Book's author :by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+4.
+Book's names :WHERE THE CRAWDADS SING
+Book's author :by Delia Owens
+-------------------------------------------
+-------------------------------------------
+5.
+Book's names :VERITY
+Book's author :by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+6.
+Book's names :THE OFFICE BFFS
+Book's author :by Jenna Fischer and Angela Kinsey
+-------------------------------------------
+-------------------------------------------
+7.
+Book's names :PHIL
+Book's author :by Alan Shipnuck
+-------------------------------------------
+-------------------------------------------
+8.
+Book's names :KILLING THE KILLERS
+Book's author :by Bill O'Reilly and Martin Dugard
+-------------------------------------------
+-------------------------------------------
+9.
+Book's names :RIVER OF THE GODS
+Book's author :by Candice Millard
+-------------------------------------------
+-------------------------------------------
+10.
+Book's names :FINDING ME
+Book's author :by Viola Davis
+-------------------------------------------
+-------------------------------------------
+11.
+Book's names :IN THE BLOOD
+Book's author :by Jack Carr
+-------------------------------------------
+-------------------------------------------
+12.
+Book's names :22 SECONDS
+Book's author :by James Patterson and Maxine Paetro
+-------------------------------------------
+-------------------------------------------
+13.
+Book's names :THIS TIME TOMORROW
+Book's author :by Emma Straub
+-------------------------------------------
+-------------------------------------------
+14.
+Book's names :DREAM TOWN
+Book's author :by David Baldacci
+-------------------------------------------
+-------------------------------------------
+15.
+Book's names :THE SUMMER PLACE
+Book's author :by Jennifer Weiner
+-------------------------------------------
+-------------------------------------------
+16.
+Book's names :THE OFFICE BFFS
+Book's author :by Jenna Fischer and Angela Kinsey
+-------------------------------------------
+-------------------------------------------
+17.
+Book's names :KILLING THE KILLERS
+Book's author :by Bill O'Reilly and Martin Dugard
+-------------------------------------------
+-------------------------------------------
+18.
+Book's names :FINDING ME
+Book's author :by Viola Davis
+-------------------------------------------
+-------------------------------------------
+19.
+Book's names :PHIL
+Book's author :by Alan Shipnuck
+-------------------------------------------
+-------------------------------------------
+20.
+Book's names :RIVER OF THE GODS
+Book's author :by Candice Millard
+-------------------------------------------
+-------------------------------------------
+21.
+Book's names :IT ENDS WITH US
+Book's author :by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+22.
+Book's names :BOOK LOVERS
+Book's author :by Emily Henry
+-------------------------------------------
+-------------------------------------------
+23.
+Book's names :WHERE THE CRAWDADS SING
+Book's author :by Delia Owens
+-------------------------------------------
+-------------------------------------------
+24.
+Book's names :VERITY
+Book's author :by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+25.
+Book's names :THE SEVEN HUSBANDS OF EVELYN HUGO
+Book's author :by Taylor Jenkins Reid
+-------------------------------------------
+-------------------------------------------
+26.
+Book's names :THE BODY KEEPS THE SCORE
+Book's author :by Bessel van der Kolk
+-------------------------------------------
+-------------------------------------------
+27.
+Book's names :BRAIDING SWEETGRASS
+Book's author :by Robin Wall Kimmerer
+-------------------------------------------
+-------------------------------------------
+28.
+Book's names :ALL ABOUT LOVE
+Book's author :by bell hooks
+-------------------------------------------
+-------------------------------------------
+29.
+Book's names :UNDER THE BANNER OF HEAVEN
+Book's author :by Jon Krakauer
+-------------------------------------------
+-------------------------------------------
+30.
+Book's names :THE CODE BREAKER
+Book's author :by Walter Isaacson
+-------------------------------------------
+-------------------------------------------
+31.
+Book's names :ATOMIC HABITS
+Book's author :by James Clear
+-------------------------------------------
+-------------------------------------------
+32.
+Book's names :THE FIBER FUELED COOKBOOK
+Book's author :by Will Bulsiewicz
+-------------------------------------------
+-------------------------------------------
+33.
+Book's names :MAKE, SEW AND MEND
+Book's author :by Bernadette Banner
+-------------------------------------------
+-------------------------------------------
+34.
+Book's names :ATLAS OF THE HEART
+Book's author :by Brené Brown
+-------------------------------------------
+-------------------------------------------
+35.
+Book's names :THE BOY, THE MOLE, THE FOX AND THE HORSE
+Book's author :by Charlie Mackesy
+-------------------------------------------
+-------------------------------------------
+36.
+Book's names :WONDER
+Book's author :by R.J. Palacio
+-------------------------------------------
+-------------------------------------------
+37.
+Book's names :SKANDAR AND THE UNICORN THIEF
+Book's author :by A.F. Steadman
+-------------------------------------------
+-------------------------------------------
+38.
+Book's names :REFUGEE
+Book's author :by Alan Gratz
+-------------------------------------------
+-------------------------------------------
+39.
+Book's names :THE MARVELLERS
+Book's author :by Dhonielle Clayton
+-------------------------------------------
+-------------------------------------------
+40.
+Book's names :STUNTBOY, IN THE MEANTIME
+Book's author :by Jason Reynolds. Illustrated by Raúl the Third
+-------------------------------------------
+-------------------------------------------
+41.
+Book's names :I WISH YOU MORE
+Book's author :by Amy Krouse Rosenthal. Illustrated by Tom Lichtenheld
+-------------------------------------------
+-------------------------------------------
+42.
+Book's names :THE WONDERFUL THINGS YOU WILL BE
+Book's author :by Emily Winfield Martin
+-------------------------------------------
+-------------------------------------------
+43.
+Book's names :DRAGONS LOVE TACOS
+Book's author :by Adam Rubin. Illustrated by Daniel Salmieri
+-------------------------------------------
+-------------------------------------------
+44.
+Book's names :BE YOU!
+Book's author :by Peter H. Reynolds
+-------------------------------------------
+-------------------------------------------
+45.
+Book's names :PERFECTLY PEGASUS
+Book's author :by Jessie Sima
+-------------------------------------------
+-------------------------------------------
+46.
+Book's names :DIARY OF A WIMPY KID
+Book's author :written and illustrated by Jeff Kinney
+-------------------------------------------
+-------------------------------------------
+47.
+Book's names :A GOOD GIRL'S GUIDE TO MURDER
+Book's author :by Holly Jackson
+-------------------------------------------
+-------------------------------------------
+48.
+Book's names :DRAGON MASTERS
+Book's author :by Tracey West
+-------------------------------------------
+-------------------------------------------
+49.
+Book's names :HARRY POTTER
+Book's author :by J.K. Rowling
+-------------------------------------------
+-------------------------------------------
+50.
+Book's names :WINGS OF FIRE
+Book's author :by Tui T. Sutherland
+-------------------------------------------
+-------------------------------------------
+51.
+Book's names :FAMILY OF LIARS
+Book's author :by E. Lockhart
+-------------------------------------------
+-------------------------------------------
+52.
+Book's names :I KISSED SHARA WHEELER
+Book's author :by Casey McQuiston
+-------------------------------------------
+-------------------------------------------
+53.
+Book's names :RISING TROUBLEMAKER
+Book's author :by Luvvie Ajayi Jones
+-------------------------------------------
+-------------------------------------------
+54.
+Book's names :ONE OF US IS LYING
+Book's author :by Karen M. McManus
+-------------------------------------------
+-------------------------------------------
+55.
+Book's names :IRON WIDOW
+Book's author :by Xiran Jay Zhao
+-------------------------------------------
+-------------------------------------------
+1.
+Book's name : IN THE BLOOD
+Book's author : by Jack Carr
+-------------------------------------------
+-------------------------------------------
+2.
+Book's name : BOOK LOVERS
+Book's author : by Emily Henry
+-------------------------------------------
+-------------------------------------------
+3.
+Book's name : IT ENDS WITH US
+Book's author : by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+4.
+Book's name : WHERE THE CRAWDADS SING
+Book's author : by Delia Owens
+-------------------------------------------
+-------------------------------------------
+5.
+Book's name : VERITY
+Book's author : by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+6.
+Book's name : THE OFFICE BFFS
+Book's author : by Jenna Fischer and Angela Kinsey
+-------------------------------------------
+-------------------------------------------
+7.
+Book's name : PHIL
+Book's author : by Alan Shipnuck
+-------------------------------------------
+-------------------------------------------
+8.
+Book's name : KILLING THE KILLERS
+Book's author : by Bill O'Reilly and Martin Dugard
+-------------------------------------------
+-------------------------------------------
+9.
+Book's name : RIVER OF THE GODS
+Book's author : by Candice Millard
+-------------------------------------------
+-------------------------------------------
+10.
+Book's name : FINDING ME
+Book's author : by Viola Davis
+-------------------------------------------
+-------------------------------------------
+11.
+Book's name : IN THE BLOOD
+Book's author : by Jack Carr
+-------------------------------------------
+-------------------------------------------
+12.
+Book's name : 22 SECONDS
+Book's author : by James Patterson and Maxine Paetro
+-------------------------------------------
+-------------------------------------------
+13.
+Book's name : THIS TIME TOMORROW
+Book's author : by Emma Straub
+-------------------------------------------
+-------------------------------------------
+14.
+Book's name : DREAM TOWN
+Book's author : by David Baldacci
+-------------------------------------------
+-------------------------------------------
+15.
+Book's name : THE SUMMER PLACE
+Book's author : by Jennifer Weiner
+-------------------------------------------
+-------------------------------------------
+16.
+Book's name : THE OFFICE BFFS
+Book's author : by Jenna Fischer and Angela Kinsey
+-------------------------------------------
+-------------------------------------------
+17.
+Book's name : KILLING THE KILLERS
+Book's author : by Bill O'Reilly and Martin Dugard
+-------------------------------------------
+-------------------------------------------
+18.
+Book's name : FINDING ME
+Book's author : by Viola Davis
+-------------------------------------------
+-------------------------------------------
+19.
+Book's name : PHIL
+Book's author : by Alan Shipnuck
+-------------------------------------------
+-------------------------------------------
+20.
+Book's name : RIVER OF THE GODS
+Book's author : by Candice Millard
+-------------------------------------------
+-------------------------------------------
+21.
+Book's name : IT ENDS WITH US
+Book's author : by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+22.
+Book's name : BOOK LOVERS
+Book's author : by Emily Henry
+-------------------------------------------
+-------------------------------------------
+23.
+Book's name : WHERE THE CRAWDADS SING
+Book's author : by Delia Owens
+-------------------------------------------
+-------------------------------------------
+24.
+Book's name : VERITY
+Book's author : by Colleen Hoover
+-------------------------------------------
+-------------------------------------------
+25.
+Book's name : THE SEVEN HUSBANDS OF EVELYN HUGO
+Book's author : by Taylor Jenkins Reid
+-------------------------------------------
+-------------------------------------------
+26.
+Book's name : THE BODY KEEPS THE SCORE
+Book's author : by Bessel van der Kolk
+-------------------------------------------
+-------------------------------------------
+27.
+Book's name : BRAIDING SWEETGRASS
+Book's author : by Robin Wall Kimmerer
+-------------------------------------------
+-------------------------------------------
+28.
+Book's name : ALL ABOUT LOVE
+Book's author : by bell hooks
+-------------------------------------------
+-------------------------------------------
+29.
+Book's name : UNDER THE BANNER OF HEAVEN
+Book's author : by Jon Krakauer
+-------------------------------------------
+-------------------------------------------
+30.
+Book's name : THE CODE BREAKER
+Book's author : by Walter Isaacson
+-------------------------------------------
+-------------------------------------------
+31.
+Book's name : ATOMIC HABITS
+Book's author : by James Clear
+-------------------------------------------
+-------------------------------------------
+32.
+Book's name : THE FIBER FUELED COOKBOOK
+Book's author : by Will Bulsiewicz
+-------------------------------------------
+-------------------------------------------
+33.
+Book's name : MAKE, SEW AND MEND
+Book's author : by Bernadette Banner
+-------------------------------------------
+-------------------------------------------
+34.
+Book's name : ATLAS OF THE HEART
+Book's author : by Brené Brown
+-------------------------------------------
+-------------------------------------------
+35.
+Book's name : THE BOY, THE MOLE, THE FOX AND THE HORSE
+Book's author : by Charlie Mackesy
+-------------------------------------------
+-------------------------------------------
+36.
+Book's name : WONDER
+Book's author : by R.J. Palacio
+-------------------------------------------
+-------------------------------------------
+37.
+Book's name : SKANDAR AND THE UNICORN THIEF
+Book's author : by A.F. Steadman
+-------------------------------------------
+-------------------------------------------
+38.
+Book's name : REFUGEE
+Book's author : by Alan Gratz
+-------------------------------------------
+-------------------------------------------
+39.
+Book's name : THE MARVELLERS
+Book's author : by Dhonielle Clayton
+-------------------------------------------
+-------------------------------------------
+40.
+Book's name : STUNTBOY, IN THE MEANTIME
+Book's author : by Jason Reynolds. Illustrated by Raúl the Third
+-------------------------------------------
+-------------------------------------------
+41.
+Book's name : I WISH YOU MORE
+Book's author : by Amy Krouse Rosenthal. Illustrated by Tom Lichtenheld
+-------------------------------------------
+-------------------------------------------
+42.
+Book's name : THE WONDERFUL THINGS YOU WILL BE
+Book's author : by Emily Winfield Martin
+-------------------------------------------
+-------------------------------------------
+43.
+Book's name : DRAGONS LOVE TACOS
+Book's author : by Adam Rubin. Illustrated by Daniel Salmieri
+-------------------------------------------
+-------------------------------------------
+44.
+Book's name : BE YOU!
+Book's author : by Peter H. Reynolds
+-------------------------------------------
+-------------------------------------------
+45.
+Book's name : PERFECTLY PEGASUS
+Book's author : by Jessie Sima
+-------------------------------------------
+-------------------------------------------
+46.
+Book's name : DIARY OF A WIMPY KID
+Book's author : written and illustrated by Jeff Kinney
+-------------------------------------------
+-------------------------------------------
+47.
+Book's name : A GOOD GIRL'S GUIDE TO MURDER
+Book's author : by Holly Jackson
+-------------------------------------------
+-------------------------------------------
+48.
+Book's name : DRAGON MASTERS
+Book's author : by Tracey West
+-------------------------------------------
+-------------------------------------------
+49.
+Book's name : HARRY POTTER
+Book's author : by J.K. Rowling
+-------------------------------------------
+-------------------------------------------
+50.
+Book's name : WINGS OF FIRE
+Book's author : by Tui T. Sutherland
+-------------------------------------------
+-------------------------------------------
+51.
+Book's name : FAMILY OF LIARS
+Book's author : by E. Lockhart
+-------------------------------------------
+-------------------------------------------
+52.
+Book's name : I KISSED SHARA WHEELER
+Book's author : by Casey McQuiston
+-------------------------------------------
+-------------------------------------------
+53.
+Book's name : RISING TROUBLEMAKER
+Book's author : by Luvvie Ajayi Jones
+-------------------------------------------
+-------------------------------------------
+54.
+Book's name : ONE OF US IS LYING
+Book's author : by Karen M. McManus
+-------------------------------------------
+-------------------------------------------
+55.
+Book's name : IRON WIDOW
+Book's author : by Xiran Jay Zhao
+-------------------------------------------
